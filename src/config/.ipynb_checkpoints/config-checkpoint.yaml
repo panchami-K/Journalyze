@@ -1,0 +1,14 @@
+data:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  filenames:
+    - journal.csv
+    - journal1.csv
+preprocessing:
+  text_columns:
+    - text
+  lowercase: true
+  remove_stopwords: true
+  remove_punctuation: true
+  remove_numbers: true
+  lemmatize: true

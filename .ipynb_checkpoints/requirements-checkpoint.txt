@@ -1,0 +1,16 @@
+transformers
+sentence-transformers
+datasets
+scipy
+torch
+pandas
+numpy
+fsspec
+emoji
+matplotlib
+seaborn
+plotly
+peft
+nltk
+pyyaml
+textblob
